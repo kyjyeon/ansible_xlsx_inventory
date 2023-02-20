@@ -9,7 +9,7 @@
 - [Grouping](#grouping)
 - [Hosts variables](#host-variables)
 - [Usage](#usage)
-- [Licens](#license)
+- [License](#license)
 
 ## Intro
 
